@@ -1,0 +1,22 @@
+I signed up for a free Acct at github.com  - here I am know as Adzil
+@brathegg! -Help us secure your GitHub account by verifying your email address (desb5401@gmail.com)
+@brathegg! -Help us secure your GitHub account by verifying your email address (elonsbrathwaite@gmail.com). 
+ Now - create a project on github =  Borg-Collective project 
+          -init with Readme file 
+- Install GIT  ..  https://www.google.com/search?q=using+github&oq=using+GIT&aqs=chrome.1.69i57j0l5.8660j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1
+    {    https://modulesunraveled.com/installing-git/installing-git-if-you-do-not-have-xcode-or-command-line-developer-tools-installed
+         https://git-scm.com/downloads
+    }  GIT install complete.  git version 2.19.0
+ Now - git clone my Borg-Collective project from github {copy the URL from gitHub }
+      cd MyProjects
+      git clone https://github.com/brathegg/Borg-Collective.git
+ - 3:17 AM - get some sleep.
+:-git status
+:-git add
+:-git status
+:-git commit -m " My Git log by StarDate "
+:-git push 
+
+:-git pull
+
+
