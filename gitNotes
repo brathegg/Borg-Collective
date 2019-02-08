@@ -10,7 +10,7 @@ I signed up for a free Acct at github.com  - here I am know as Adzil
  Now - git clone my Borg-Collective project from github {copy the URL from gitHub }
       cd MyProjects
       git clone https://github.com/brathegg/Borg-Collective.git
- - 3:17 AM - get some sleep.
+
 :-git status
 :-git add
 :-git status
